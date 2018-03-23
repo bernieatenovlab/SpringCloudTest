@@ -1,0 +1,10 @@
+target/
+/.metadata/
+.idea/
+application-*.properties
+quartz-*.properties
+*.bak
+*.log
+create.sql
+*.iml
+aj*.txt
